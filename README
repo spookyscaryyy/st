@@ -1,6 +1,12 @@
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
+This is my build of st. I did not make this.
+
+Patches
+-------
+Boxdraw - patched outside of flexipatch because it broke characters
+Listed in patches.h.ref
 
 
 Requirements
