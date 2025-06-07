@@ -1,16 +1,6 @@
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
-This is my build of st, I did not make this
-
-
-Patches
--------
-Alpha
-Boxdraw
-Dynamic Cursor Color
-Gruvbox
-Ligatures
 
 
 Requirements
